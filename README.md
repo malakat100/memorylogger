@@ -44,15 +44,6 @@ python memory_logger.py --delete 2 --c g
 python memory_logger.py --delete --c p
 ```
 
-## Future Enhancements
-
-- 🔹 Add support for a GUI interface.
-- 🔹 Implement AI analysis for memory patterns.
-- 🔹 Encrypt personal memories for privacy.
-
-## License
-This project is open-source and available under the MIT License.
-
 ---
 
 Feel free to contribute and improve the project! 🚀
